@@ -1,0 +1,38 @@
+body {
+  background: #000000 url(../posh.jpg) top left repeat scroll;
+  font-family: “Trebuchet MS”, Verdana, Arial, serif;
+  color: #aaa;
+  margin-top:  2cm;
+}
+
+.copy {
+  color: #aaa;
+}
+
+
+.alignleft {
+  float: left;
+}
+
+.alignright {
+  float: right;
+}
+
+.clearfix{
+  clear: both;
+}
+
+.head-rule {
+  clear: both;
+  border-bottom:1px solid #aaa;
+  padding-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+.green {
+  color: #6cbe00
+}
+
+.purple {
+  color: #8805a8
+}
