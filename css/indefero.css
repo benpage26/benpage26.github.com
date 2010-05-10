@@ -1,0 +1,14 @@
+:body {
+  background: #000000 url(../posh.jpg) top left repeat scroll;
+  font-family: “Trebuchet MS”, Verdana, Arial, serif;
+  color: #aaa;
+  margin-top:  3em;
+}
+
+.green {
+  color: #6cbe00
+}
+
+.purple {
+  color: #8805a8
+}
